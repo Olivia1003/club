@@ -1,3 +1,3 @@
 # club
 club content
-orange local change
+orange local and remote change
